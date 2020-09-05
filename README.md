@@ -10,8 +10,17 @@ I should be familiar with github
 Learnt on 09/sep
 I have learnt to fork the project
 I have learnt to clone the project using command git clone <url>
-Next i have to create a branch using the command 
+Next i have to create a branch using the command.
     git checkout -b <branchname> <copyfrom the branch>
     ex: git checkout -b addingPause  master
 List of commands available in git link: https://git-scm.com/doc
 
+Commands:-------------------------------------------
+git clone <url> ---> for cloning to the local directory
+git checout -b addingPauseReq master ----> creating a branch in my repository
+git status --->>> to see the added and updated files info
+git add . / git Add Readme ---> trying to add a file or code or folder 
+git commit -m "message"   ----->>> commiting 
+git push origin addingPauseReq     ---->>> It will push the code tp branch addingPauseReq
+git reset --head  ---->>> will save the previous files.
+git status
