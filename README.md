@@ -22,5 +22,6 @@ git status --->>> to see the added and updated files info
 git add . / git Add Readme ---> trying to add a file or code or folder 
 git commit -m "message"   ----->>> commiting 
 git push origin addingPauseReq     ---->>> It will push the code tp branch addingPauseReq
-git reset --head  ---->>> will save the previous files.
+git reset --hard  ---->>> will save the previous files.
 git status
+git add <filename>
