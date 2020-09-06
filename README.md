@@ -19,7 +19,7 @@ Commands:-------------------------------------------
 git clone <url> ---> for cloning to the local directory
 git checout -b addingPauseReq master ----> creating a branch in my repository
 git status --->>> to see the added and updated files info
-git add . / git Add Readme ---> trying to add a file or code or folder 
+git add . / git add Readme ---> trying to add a file or code or folder 
 git commit -m "message"   ----->>> commiting 
 git push origin addingPauseReq     ---->>> It will push the code tp branch addingPauseReq
 git reset --hard  ---->>> will save the previous files.
