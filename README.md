@@ -16,7 +16,7 @@ List of commands available in git link: https://git-scm.com/doc
 
 Commands:-------------------------------------------
 git clone <url> ---> for cloning to the local directory
-git checout -b addingPauseReq master ----> creating a branch in my repository
+git checkout -b addingPauseReq master ----> creating a branch in my repository and it is taking `master` as a reference to create a branch
 git status --->>> to see the added and updated files info
 git add . / git add Readme ---> trying to add a file or code or folder 
 git commit -m "message"   ----->>> commiting 
@@ -24,6 +24,7 @@ git push origin addingPauseReq     ---->>> It will push the code tp branch addin
 git reset --hard  ---->>> will save the previous files.
 git status
 git add <filename>
+<<<<<<< HEAD
 
 #### Command to add a remote branch:
 <p>Below command helps to add a remote branch to your local system:</p>
@@ -45,3 +46,5 @@ git add <filename>
 </ol>
 
 
+=======
+>>>>>>> 6bfd723ce339523d65f7b00dee3a576899d0b559
