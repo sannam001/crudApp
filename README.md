@@ -3,7 +3,7 @@ I am learning from scratch how to build an application with react using crud , r
 
 #### Command to add a remote branch:
 <p>Below command helps to add a remote branch to your local system:</p>
-  <code>git remote add <nameof the master repo> <url of the master repo></code>
+  <code>git remote add <nameof the master repo> <url of the master repo></code><br>
   <code>Eg: git remote add upstream https://github.com/krishna63/crudApp.git<code>
 
 #### Command to fetch the latest code:
