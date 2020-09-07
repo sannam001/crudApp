@@ -2,15 +2,14 @@
 I am learning from scratch how to build an application with react using crud , routing and environment set up
 
 #### Command to add a remote branch:
-<p>Below command helps to add a remote branch to your local</p>
-git remote add <nameof the master repo> <url of the master repo>
-  eg: git remote add upstream https://github.com/krishna63/crudApp.git
+<p>Below command helps to add a remote branch to your local system:</p>
+  <code>git remote add <nameof the master repo> <url of the master repo></code>
+  <code>Eg: git remote add upstream https://github.com/krishna63/crudApp.git<code>
 
-#### Command to get latest code:
-<p>Next you need to run the below command, that way you will get the latest code that is merged into 
-the upstream</p>
-  <p>git pull <name of the master repo> <name of the branch></p>
-  <p>eg: git pull upstream master</p>
+#### Command to fetch the latest code:
+<p>Next you need to run the below command:</p>
+  <code>git pull <name of the master repo> <name of the branch></code>
+  <code>Eg: git pull upstream master</code>
 
 <p>Note: <strong>We need to run  the above command at regular intervals so that we always have the latest code in the master.</strong></p>
 
