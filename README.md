@@ -8,7 +8,7 @@ I am learning from scratch how to build an application with react using crud , r
 
 #### Command to fetch the latest code:
 <p>Next you need to run the below command:</p>
-  <code>git pull <name of the master repo> <name of the branch></code>
+  <code>git pull <name of the master repo> <name of the branch></code><br>
   <code>Eg: git pull upstream master</code>
 
 <p>Note: <strong>We need to run  the above command at regular intervals so that we always have the latest code in the master.</strong></p>
