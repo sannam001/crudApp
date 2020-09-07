@@ -9,12 +9,12 @@ git remote add <nameof the master repo> <url of the master repo>
 ### Command to get latest code:
 <p>Next you need to run the below command, that way you will get the latest code that is merged into 
 the upstream</p>
-git pull <name of the master repo> <name of the branch>
-  eg: git pull upstream master
-Note: <strong>We need to run  the above command at regular intervals so that we always have the latest
-code in the master</strong>
+  <p>git pull <name of the master repo> <name of the branch></p>
+  <p>eg: git pull upstream master</p>
 
-<u>Task</u>:
+<p>Note: <strong>We need to run  the above command at regular intervals so that we always have the latest code in the master</strong></p>
+
+Task:
 <ol>
   <li> Create a new branch called notesAboutNPM</li>
   <li> Add a new file and name it NOTES_README.md file</li>
