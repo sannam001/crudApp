@@ -24,7 +24,6 @@ git push origin addingPauseReq     ---->>> It will push the code tp branch addin
 git reset --hard  ---->>> will save the previous files.
 git status
 git add <filename>
-<<<<<<< HEAD
 
 #### Command to add a remote branch:
 <p>Below command helps to add a remote branch to your local system:</p>
@@ -45,6 +44,6 @@ git add <filename>
   <li> Start following the same practise for each of the tools/process we learn during our training activity.</li>
 </ol>
 
+This will be a separate commit and it will be listed out under commits tab and when i click on that 
+number it will show the changeswhich i made in that particular commit.
 
-=======
->>>>>>> 6bfd723ce339523d65f7b00dee3a576899d0b559
