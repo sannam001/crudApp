@@ -1,0 +1,29 @@
+{
+  "name": "crudapp",
+  "version": "1.0.0",
+  "description": "I am learning react",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pretify": "prettier src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sannam001/crudApp.git"
+  },
+  "keywords": [
+    "crud"
+  ],
+  "author": "shilpa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sannam001/crudApp/issues"
+  },
+  "homepage": "https://github.com/sannam001/crudApp#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "jquery": "^3.5.1"
+  }
+}
